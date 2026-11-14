@@ -1,0 +1,6 @@
+{
+  "name": "My Life – मेरी पहचान",
+  "description": "A premium bilingual (Hindi & English) personal profile, family, education, memories, dreams, and contacts app with PIN lock, cloud sync, and backup export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
